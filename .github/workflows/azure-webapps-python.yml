@@ -1,7 +1,7 @@
 name: Build and deploy Python app to Azure Web App
 
 env:
-  AZURE_WEBAPP_NAME: your-app-name  # Replace with your actual app name
+  AZURE_WEBAPP_NAME: pythontestlab8  
   PYTHON_VERSION: '3.11'
 
 on:
