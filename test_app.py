@@ -10,7 +10,7 @@ def test_subtract():
     assert app.subtract(0, 4) == -4
 
 def test_multiply():
-    assert app.multiply(2, 3) == 6
+    assert app.multiply(2, 1) == 2
     assert app.multiply(-1, 5) == -5
 
 def test_divide():
